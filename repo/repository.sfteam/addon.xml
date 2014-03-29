@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.sfteam" 
+        name="SoldierSatForum Add-ons" 
+        version="1.0.1" 
+        provider-name="SoldierSatForum.com"> 
+    <extension point="xbmc.addon.repository" 
+        name="SoldierSatForum Add-ons"> 
+		<info compressed="false">http://soldiersatforum.com/prismcube/repo/addons.xml</info>
+		<checksum>http://soldiersatforum.com/prismcube/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://soldiersatforum.com/prismcube/repo/zips</datadir>
+    </extension> 
+    <extension point="xbmc.addon.metadata"> 
+        <summary lang="en">Install add-ons from SoldierSatForum</summary>
+        <summary lang="es">Instala addons de SoldierSatForum</summary>
+        <description lang="en">[CR]            Download and install addons from SoldierSatForum[CR][CR]                         Support in [COLOR blue]www.soldiersatforum.com[/COLOR]</description>
+        <description lang="es">[CR]                 Descarga y instala addons de SoldierSatForum[CR][CR]                         Soporte en [COLOR blue]www.soldiersatforum.com[/COLOR]</description>
+        <disclaimer lang="en">The addons provided in this repo not contain illegal material. [CR] The use of addons for illegal activities such as obtaining any goods or services for which purposes involving the payment of any kind, including subscription television are used under their own risk and responsibility.</disclaimer>
+        <disclaimer lang="es">Los addons proporcionados en este repo no contienen material ilegal.[CR]El uso de addons para fines ilegales, tales como la obtención de cualquier bien o servicio para el que está implicado el pago de cualquier tipo, incluida la televisión por suscripción se usan bajo su propio riesgo y responsabilidad.</disclaimer>
+        <platform>all</platform> 
+    </extension> 
+</addon>
+
