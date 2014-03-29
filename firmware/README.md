@@ -1,4 +1,0 @@
-prismcube
-=========
-
-Prismcube SFTEAM Firmware
